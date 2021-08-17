@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOLID_PRINCIPELS/1.0.0": {
+        "runtime": {
+          "SOLID_PRINCIPELS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_PRINCIPELS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
