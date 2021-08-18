@@ -15,7 +15,7 @@ namespace SOLID
                 CPF = "12345678900",
                 DataCadastro = DateTime.Today   
             };
-
+            
             string clienteService = ClienteService.AdicionarCliente(cliente);   
             Console.WriteLine(clienteService);
             #endregion 
